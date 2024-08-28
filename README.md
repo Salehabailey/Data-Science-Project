@@ -49,7 +49,7 @@ Make sure you have the following packages installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/hate-speech-detection-LLM.git
+   git clone https://github.com/Salehabailey/Data-Science-Project/
 2. Use requirements.txt to install required packages
 3. Open jupyther notebook
 4. Navigate to the cloned location
