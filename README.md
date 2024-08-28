@@ -24,7 +24,7 @@ The motivation for hate speech detection is rooted in the desire to create safer
 
 This study follows a systematic approach to developing an efficient hate speech detection system using the BERT model. The project starts with the collection of data from 'A Curated Hate Speech Dataset.' The next step is data preparation, which involves cleaning and normalizing the text to ensure consistency. Feature extraction is then carried out using advanced methods such as Byte Pair Encoding (BPE) and ELMo. Following this, the BERT model is developed and fine-tuned for optimal performance. The final step involves performance evaluation, assessing the model's effectiveness using metrics such as accuracy and loss.
 
-![Methodology Flowchart](./img/Picture1.jepg)
+![Methodology Flowchart](./img/Picture1.jpeg)
 
 ## How to Run the Code
 
